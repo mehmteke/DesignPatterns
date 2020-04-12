@@ -1,6 +1,0 @@
-C:\Users\MEHMTEKE\Documents\Visual Studio 2015\Projects\Design Patterns\Singleton\FactoryMethod\bin\Debug\FactoryMethod.exe.config
-C:\Users\MEHMTEKE\Documents\Visual Studio 2015\Projects\Design Patterns\Singleton\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
-C:\Users\MEHMTEKE\Documents\Visual Studio 2015\Projects\Design Patterns\Singleton\FactoryMethod\bin\Debug\FactoryMethod.exe
-C:\Users\MEHMTEKE\Documents\Visual Studio 2015\Projects\Design Patterns\Singleton\FactoryMethod\bin\Debug\FactoryMethod.pdb
-C:\Users\MEHMTEKE\Documents\Visual Studio 2015\Projects\Design Patterns\Singleton\FactoryMethod\obj\Debug\FactoryMethod.exe
-C:\Users\MEHMTEKE\Documents\Visual Studio 2015\Projects\Design Patterns\Singleton\FactoryMethod\obj\Debug\FactoryMethod.pdb

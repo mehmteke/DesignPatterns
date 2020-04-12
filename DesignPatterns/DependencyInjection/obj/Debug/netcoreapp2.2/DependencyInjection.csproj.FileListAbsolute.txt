@@ -1,0 +1,11 @@
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.deps.json
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.runtimeconfig.json
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.runtimeconfig.dev.json
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.dll
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\bin\Debug\netcoreapp2.2\DependencyInjection.pdb
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.csprojAssemblyReference.cache
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.AssemblyInfo.cs
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.dll
+C:\Users\MEHMTEKE\Desktop\tfs\DesignPatterns\DesignPatterns\DependencyInjection\obj\Debug\netcoreapp2.2\DependencyInjection.pdb
