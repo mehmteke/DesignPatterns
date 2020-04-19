@@ -1,0 +1,7 @@
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
