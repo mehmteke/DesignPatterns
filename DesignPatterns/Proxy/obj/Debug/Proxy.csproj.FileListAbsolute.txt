@@ -1,0 +1,7 @@
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+C:\Users\MEHMTEKE\Source\Repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\Proxy.pdb
